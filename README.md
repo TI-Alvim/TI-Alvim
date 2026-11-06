@@ -1,8 +1,8 @@
 # Olá! Eu sou o Tiago Alvim
 
-![Estatísticas do Tiago](https://github-readme-stats.vercel.app/api?username=ti-alvim&show_icons=true&theme=dracula&hide_border=true)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ti-alvim&layout=compact&theme=dracula&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ti-alvim&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do Tiago">
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ti-alvim&layout=compact&theme=dracula&hide_border=true" alt="Top Linguagens">
 
 <div style="display: inline-block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
