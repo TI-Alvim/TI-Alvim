@@ -1,6 +1,7 @@
-# Olá! Eu sou a Tiago Alvim
+# Olá! Eu sou o Tiago Alvim
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TI-Alvim&show_icons=true&theme=radical)
+[![Estatísticas do Tiago](https://github-readme-stats.vercel.app/api?username=ti-alvim&show_icons=true&theme=dracula&hide_border=true)](https://github.com/ti-alvim)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ti-alvim&layout=compact&theme=dracula&hide_border=true)](https://github.com/ti-alvim)
 
 - <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
