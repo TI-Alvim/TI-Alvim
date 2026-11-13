@@ -9,9 +9,7 @@
 <td width="60%" align="center">
 <p>✧･ﾟ: *✧･ﾟ:*</p>
 <p>
-<img src="./assets/gif-esquerda.gif" width="60" />
-&nbsp;&nbsp;
-<img src="./assets/gif-direita.gif" width="95" />
+<img  src="https://github.com/user-attachments/assets/4c0ca567-4673-4f28-9de4-4cfba27f904b" width="230" />
 </p>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TI-Alvim/TI-Alvim/output/github-contribution-grid-snake-dark.svg" />
@@ -30,7 +28,7 @@
 </p>
 </td>
 <td width="40%" align="center">
-<img src="./assets/imagem-vertical.gif" width="100%" />
+<img src="https://github.com/user-attachments/assets/05100f66-b4e8-46da-9db3-d4f75551f1a7" width="100%" />
 </td>
 </tr>
 </table>
@@ -39,14 +37,26 @@
 
 ### 🌐 Redes Sociais:
 
->  Desenvolvedor Full Stack & Designer.<br>
->  Full Stack Developer & Designer.
+> 💙 Desenvolvedor Full Stack & Designer.<br>
+> 💙 Full Stack Developer & Designer.
 
 <p>
 <a href="https://www.twitch.tv/drekesenpai" target="_blank">
-<img src="https://img.shields.io/badge/TWITCH-6A0DAD?style=for-the-badge&logo=twitch&logoColor=white" />
+<img src="https://img.shields.io/badge/TWITCH-1D4ED8?style=for-the-badge&logo=twitch&logoColor=white" />
 </a>
 <a href="mailto:tiago.lousada.alvim@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GMAIL-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="
+<a href="https://www.linkedin.com/in/tiago-alvim-a25060203" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.behance.net/TI_Alvim" target="_blank">
+<img src="https://img.shields.io/badge/BEHANCE-1D4ED8?style=for-the-badge&logo=behance&logoColor=white" />
+</a>
+</p>
+
+---
+
+*A magical universe can be born from small ideas!* ⭐
+
+<img src="https://github.com/user-attachments/assets/1b9f45a1-b575-475d-b5e3-a67697171763" width="280" />
