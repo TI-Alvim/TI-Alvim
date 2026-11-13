@@ -39,8 +39,8 @@
 
 ### 🌐 Redes Sociais:
 
-> 💜 Desenvolvedor Full Stack & Designer.<br>
-> 💜 Full Stack Developer & Designer.
+>  Desenvolvedor Full Stack & Designer.<br>
+>  Full Stack Developer & Designer.
 
 <p>
 <a href="https://www.twitch.tv/drekesenpai" target="_blank">
