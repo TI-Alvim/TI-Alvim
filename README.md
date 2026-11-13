@@ -1,26 +1,70 @@
-# Olá! Eu sou o Tiago Alvim
+### Olá, eu sou a/o [Teu Nome].
 
-<img src="https://github-readme-stats.vercel.app/api?username=ti-alvim&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do Tiago">
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ti-alvim&layout=compact&theme=dracula&hide_border=true" alt="Top Linguagens">
+<p>
+  <img src="https://img.icons8.com/fluency/20/checkmark.png" width="16" /> <b>Contributions:</b>
+</p>
 
-<div style="display: inline-block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UC-JNgc4kNfoMsQOJEbKqyeQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/ti_alvim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/drekesenpai" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/channels/714296681528819773/714297592896290847" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:tiago.lousada.alvim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tiago-alvim-a25060203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<table>
+  <tr>
+    <td width="60%" align="center">
+      <p>✧･ﾟ: *✧･ﾟ:*</p>
+      <p>
+        <!-- Dois GIFs pequenos lado a lado -->
+        <img src="LINK_DO_GIF_PIXEL_ROXO.gif" width="60" />
+        &nbsp;&nbsp;
+        <img src="LINK_DO_GIF_ESPADA_FLORES.gif" width="95" />
+      </p>
+
+      <!-- Gráfico de contribuições animado (Snake) -->
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-UTILIZADOR/SEU-UTILIZADOR/output/github-contribution-grid-snake-dark.svg" />
+        <img alt="github-snake" src="https://raw.githubusercontent.com/SEU-UTILIZADOR/SEU-UTILIZADOR/output/github-contribution-grid-snake.svg" />
+      </picture>
+
+      <p>🪄 <b>Stacks</b></p>
+
+      <!-- Linha 1 de tecnologias -->
+      <p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=cs,java,html,css,js,ts,react,nodejs,tailwind,nextjs&perline=10" />
+        </a>
+      </p>
+
+      <!-- Linha 2 de ferramentas -->
+      <p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=azure,mysql,git,vscode,rider,visualstudio,idea,pr,windows,linux&perline=10" />
+        </a>
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <!-- Imagem ou GIF vertical principal (estilo anime escuro/roxo) -->
+      <img src="LINK_DA_IMAGEM_VERTICAL_ROXA.gif" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌐 Redes Sociais:
+
+> 💜 Escreve aqui uma frase sobre o teu projeto ou canal.<br>
+> 💜 Write a short description about your project or channel here.
+
+<p>
+  <a href="https://youtube.com/@TEU-CANAL" target="_blank">
+    <img src="https://img.shields.io/badge/YOUTUBE-6A0DAD?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:teuemail@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/TEU-PERFIL" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+*A magical universe can be born from small ideas!* ⭐
+
+<img src="LINK_DO_GIF_FOGUEIRA_PIXEL.gif" width="180" />
